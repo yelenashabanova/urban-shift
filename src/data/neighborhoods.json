@@ -1,0 +1,82 @@
+[
+  {
+    "id": "pigneto",
+    "name": "Pigneto",
+    "shiftScore": 82,
+    "explanation": "Pigneto shows strong early-shift signals. Low imperviousness density suggests remaining development capacity, while steady densification of mid-density built fabric points to ongoing transformation. A historically working-class area now attracting creative and service-sector demand.",
+    "indicators": [
+      { "key": "constructionIntensity", "label": "Construction Intensity", "value": 68, "unit": "%" },
+      { "key": "treeCoverDensity", "label": "Tree Cover Density", "value": 22, "unit": "%" }
+    ]
+  },
+  {
+    "id": "ostiense",
+    "name": "Ostiense",
+    "shiftScore": 77,
+    "explanation": "Ostiense has undergone significant built-environment restructuring over the past decade. Former industrial land is being absorbed into mixed-use development. Soil sealing levels are elevated, reflecting high construction activity. Green infrastructure remains limited.",
+    "indicators": [
+      { "key": "constructionIntensity", "label": "Construction Intensity", "value": 79, "unit": "%" },
+      { "key": "treeCoverDensity", "label": "Tree Cover Density", "value": 11, "unit": "%" }
+    ]
+  },
+  {
+    "id": "garbatella",
+    "name": "Garbatella",
+    "shiftScore": 71,
+    "explanation": "Garbatella's distinctive early-20th-century urban fabric has historically insulated it from rapid change. Recent signals suggest increasing interest from residential investors. Relatively high tree cover adds environmental quality that supports mid-to-long-term value.",
+    "indicators": [
+      { "key": "constructionIntensity", "label": "Construction Intensity", "value": 55, "unit": "%" },
+      { "key": "treeCoverDensity", "label": "Tree Cover Density", "value": 34, "unit": "%" }
+    ]
+  },
+  {
+    "id": "testaccio",
+    "name": "Testaccio",
+    "shiftScore": 65,
+    "explanation": "Testaccio is a mature, densely built neighbourhood with limited land availability. Its shift potential is driven more by use-mix evolution than physical expansion. High imperviousness is consistent with a fully urbanised core. Already partially repriced.",
+    "indicators": [
+      { "key": "constructionIntensity", "label": "Construction Intensity", "value": 88, "unit": "%" },
+      { "key": "treeCoverDensity", "label": "Tree Cover Density", "value": 9, "unit": "%" }
+    ]
+  },
+  {
+    "id": "trastevere",
+    "name": "Trastevere",
+    "shiftScore": 58,
+    "explanation": "Trastevere is one of Rome's most recognised and already-repriced areas. Structural demand is stable but not accelerating. Shift Score is moderate — not a leading-edge signal area, but a reliable established location with limited downside risk and limited upside.",
+    "indicators": [
+      { "key": "constructionIntensity", "label": "Construction Intensity", "value": 82, "unit": "%" },
+      { "key": "treeCoverDensity", "label": "Tree Cover Density", "value": 14, "unit": "%" }
+    ]
+  },
+  {
+    "id": "prenestino",
+    "name": "Prenestino",
+    "shiftScore": 74,
+    "explanation": "Prenestino sits adjacent to higher-scoring transformation zones and exhibits its own early signals: moderate construction intensity with pockets of remaining capacity and improving connectivity. A neighbourhood to watch in a 3–5 year horizon.",
+    "indicators": [
+      { "key": "constructionIntensity", "label": "Construction Intensity", "value": 61, "unit": "%" },
+      { "key": "treeCoverDensity", "label": "Tree Cover Density", "value": 28, "unit": "%" }
+    ]
+  },
+  {
+    "id": "nomentano",
+    "name": "Nomentano",
+    "shiftScore": 53,
+    "explanation": "Nomentano is a stable residential zone with well-established urban fabric. Structural signals are muted — the area is not in a transformation phase. Green cover is above average for the inner city, supporting residential quality. Low shift, lower risk.",
+    "indicators": [
+      { "key": "constructionIntensity", "label": "Construction Intensity", "value": 51, "unit": "%" },
+      { "key": "treeCoverDensity", "label": "Tree Cover Density", "value": 41, "unit": "%" }
+    ]
+  },
+  {
+    "id": "casilino",
+    "name": "Casilino",
+    "shiftScore": 86,
+    "explanation": "Casilino shows the highest structural shift signals in this set. Low existing imperviousness, significant residual land capacity, and proximity to infrastructure investment create conditions for accelerated transformation. High potential, higher uncertainty.",
+    "indicators": [
+      { "key": "constructionIntensity", "label": "Construction Intensity", "value": 44, "unit": "%" },
+      { "key": "treeCoverDensity", "label": "Tree Cover Density", "value": 38, "unit": "%" }
+    ]
+  }
+]
