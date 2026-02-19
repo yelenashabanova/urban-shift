@@ -43,10 +43,10 @@ No raw satellite imagery is processed in the browser. Only aggregated, neighborh
 
 ## Features (MVP — Rome)
 
-- 🗺️ **Interactive map** — neighborhood polygons colored by Shift Score
-- 📋 **Ranked list** — sortable neighborhood leaderboard
-- 📌 **Detail panel** — per-neighborhood Shift Score, top contributing drivers, and a short human-readable explanation
-- 🔍 **Method page** — data sources, assumptions, known limitations (credibility anchor)
+- **Interactive map** — neighborhood polygons colored by Shift Score
+- **Ranked list** — sortable neighborhood leaderboard
+- **Detail panel** — per-neighborhood Shift Score, top contributing drivers, and a short human-readable explanation
+- **Method page** — data sources, assumptions, known limitations (credibility anchor)
 
 ---
 
@@ -65,7 +65,7 @@ No raw satellite imagery is processed in the browser. Only aggregated, neighborh
 
 **Stage: MVP / Prototype — in active development**
 
-### Completed ✅
+### Completed
 - [x] Project scaffolding with Vite + React
 - [x] Interactive Leaflet map with Rome neighborhood polygons
 - [x] Shift Score color-coding on map polygons
@@ -74,7 +74,7 @@ No raw satellite imagery is processed in the browser. Only aggregated, neighborh
 - [x] Responsive layout and clean UI
 - [x] Deployed to GitHub Pages
 
-### In progress / Next steps 🔜
+### In progress / Next steps
 - [ ] Replace mock data with real processed Copernicus + ISTAT indicators for Rome
 - [ ] Add method & limitations page
 - [ ] Add landing page (product intro + CTA to demo)
