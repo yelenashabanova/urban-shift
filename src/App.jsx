@@ -2,7 +2,7 @@ import { useState } from 'react'
 import MapView from './components/MapView'
 import DetailPanel from './components/DetailPanel'
 import RankList from './components/RankList'
-import neighborhoods from './data/neighborhoods.json'
+import neighborhoods from './data/lazio_neighborhoods.json'
 
 export default function App() {
   const [selected, setSelected] = useState(null)

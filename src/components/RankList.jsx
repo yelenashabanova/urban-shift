@@ -3,7 +3,7 @@ export default function RankList({ neighborhoods, selectedId, onSelect }) {
         <div className="rank-list">
             <div className="rank-list__header">
                 <div className="rank-list__wordmark">Urban Shift</div>
-                <div className="rank-list__subtitle">Rome — Shift Score ranking</div>
+                <div className="rank-list__subtitle">Lazio — Shift Score ranking</div>
             </div>
             <div className="rank-list__label">Neighbourhoods</div>
             <div className="rank-list__items">

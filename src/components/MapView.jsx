@@ -1,22 +1,29 @@
-import { useEffect, useRef, useState } from 'react'
+import { useEffect, useRef } from 'react'
 import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
-import neighborhoods from '../data/neighborhoods.json'
+import neighborhoods from '../data/lazio_neighborhoods.json'
 
-const scoreMap = Object.fromEntries(neighborhoods.map(n => [n.id, n.shiftScore]))
+// Build lookup: id (PRO_COM_T) → { shiftScore, imd }
+const scoreMap = Object.fromEntries(
+    neighborhoods.map(n => [n.id, { score: n.shiftScore, imd: n.indicators[0]?.value }])
+)
 
 function scoreToColor(score) {
+    // score 0–100: 0 = highly sealed (dark red/orange), 100 = very green
     const t = Math.max(0, Math.min(1, score / 100))
     if (t < 0.5) {
-        const r = Math.round(217 + (106 - 217) * (t / 0.5))
-        const g = Math.round(232 + (180 - 232) * (t / 0.5))
-        const b = Math.round(226 + (160 - 226) * (t / 0.5))
+        const t2 = t / 0.5
+        // orange → yellow-green
+        const r = Math.round(230 + (180 - 230) * t2)
+        const g = Math.round(126 + (200 - 126) * t2)
+        const b = Math.round(34 + (80 - 34) * t2)
         return `rgb(${r},${g},${b})`
     } else {
         const t2 = (t - 0.5) / 0.5
-        const r = Math.round(106 + (30 - 106) * t2)
-        const g = Math.round(180 + (107 - 180) * t2)
-        const b = Math.round(160 + (92 - 160) * t2)
+        // yellow-green → deep green
+        const r = Math.round(180 + (34 - 180) * t2)
+        const g = Math.round(200 + (139 - 200) * t2)
+        const b = Math.round(80 + (34 - 80) * t2)
         return `rgb(${r},${g},${b})`
     }
 }
@@ -30,8 +37,8 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
         if (mapInstanceRef.current) return
 
         const map = L.map(mapRef.current, {
-            center: [41.878, 12.514],
-            zoom: 13,
+            center: [41.9, 12.9],   // centred on Lazio
+            zoom: 8,
             zoomControl: true,
             attributionControl: true,
         })
@@ -54,29 +61,36 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
 
         mapInstanceRef.current = map
 
-        // Fetch GeoJSON from public folder
-        fetch('/rome-neighborhoods.geojson')
+        // Fetch real GeoJSON from public folder
+        fetch(`${import.meta.env.BASE_URL}municipalities.geojson`)
             .then(r => r.json())
             .then(geojson => {
                 L.geoJSON(geojson, {
                     style: (feature) => {
                         const id = feature.properties.id
-                        const score = scoreMap[id] ?? 50
+                        const entry = scoreMap[id]
+                        const score = entry?.score ?? 50
                         return {
                             fillColor: scoreToColor(score),
-                            fillOpacity: 0.72,
+                            fillOpacity: 0.75,
                             color: '#ffffff',
-                            weight: 2,
-                            opacity: 1,
+                            weight: 0.8,
+                            opacity: 0.9,
                         }
                     },
                     onEachFeature: (feature, layer) => {
                         const id = feature.properties.id
                         layersRef.current[id] = layer
 
-                        const score = scoreMap[id]
+                        const entry = scoreMap[id]
+                        const name = feature.properties.name
+                        const score = entry?.score?.toFixed(1) ?? '–'
+                        const imd = entry?.imd?.toFixed(1) ?? '–'
+
                         layer.bindTooltip(
-                            `<strong>${feature.properties.name}</strong><br/>Shift Score: ${score}`,
+                            `<strong>${name}</strong><br/>` +
+                            `Shift Score: <b>${score}</b><br/>` +
+                            `Imperviousness: ${imd}%`,
                             { sticky: true }
                         )
 
@@ -87,12 +101,12 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
 
                         layer.on('mouseover', function () {
                             if (id !== selectedId) {
-                                this.setStyle({ fillOpacity: 0.9, weight: 3 })
+                                this.setStyle({ fillOpacity: 0.92, weight: 2 })
                             }
                         })
                         layer.on('mouseout', function () {
                             if (id !== selectedId) {
-                                this.setStyle({ fillOpacity: 0.72, weight: 2 })
+                                this.setStyle({ fillOpacity: 0.75, weight: 0.8 })
                             }
                         })
                     },
@@ -104,10 +118,10 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
     useEffect(() => {
         Object.entries(layersRef.current).forEach(([id, layer]) => {
             if (id === selectedId) {
-                layer.setStyle({ fillOpacity: 0.95, weight: 3, color: '#1e6b5c' })
+                layer.setStyle({ fillOpacity: 0.95, weight: 2.5, color: '#1e6b5c' })
                 layer.bringToFront()
             } else {
-                layer.setStyle({ fillOpacity: 0.72, weight: 2, color: '#ffffff' })
+                layer.setStyle({ fillOpacity: 0.75, weight: 0.8, color: '#ffffff' })
             }
         })
     }, [selectedId])
@@ -119,12 +133,12 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
                 <div className="map-legend__title">Shift Score</div>
                 <div className="map-legend__bar" />
                 <div className="map-legend__labels">
-                    <span>Low</span>
-                    <span>High</span>
+                    <span>Sealed</span>
+                    <span>Green</span>
                 </div>
             </div>
             <div className={`map-hint${selectedId ? ' hidden' : ''}`}>
-                Click a neighbourhood to explore
+                Click a comune to explore
             </div>
         </>
     )

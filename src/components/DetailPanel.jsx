@@ -2,7 +2,7 @@ export default function DetailPanel({ neighborhood, onClose }) {
     const isOpen = !!neighborhood
 
     return (
-        <div className={`detail-panel${isOpen ? ' open' : ''}`} aria-label="Neighbourhood detail">
+        <div className={`detail-panel${isOpen ? ' open' : ''}`} aria-label="Comune detail">
             <button className="detail-panel__close" onClick={onClose} aria-label="Close panel">
                 ×
             </button>
@@ -10,10 +10,10 @@ export default function DetailPanel({ neighborhood, onClose }) {
             {neighborhood && (
                 <>
                     <div className="detail-panel__hero">
-                        <div className="detail-panel__tag">Neighbourhood</div>
+                        <div className="detail-panel__tag">Comune · Lazio</div>
                         <div className="detail-panel__name">{neighborhood.name}</div>
                         <div className="detail-panel__score-row">
-                            <span className="detail-panel__score-num">{neighborhood.shiftScore}</span>
+                            <span className="detail-panel__score-num">{neighborhood.shiftScore.toFixed(1)}</span>
                             <span className="detail-panel__score-denom">/ 100</span>
                         </div>
                         <div className="detail-panel__score-label">Shift Score</div>
@@ -37,7 +37,7 @@ export default function DetailPanel({ neighborhood, onClose }) {
                                         <div className="indicator-item__track">
                                             <div
                                                 className="indicator-item__fill"
-                                                style={{ width: `${ind.value}%` }}
+                                                style={{ width: `${Math.min(100, ind.value)}%` }}
                                             />
                                         </div>
                                     </div>
@@ -48,8 +48,9 @@ export default function DetailPanel({ neighborhood, onClose }) {
                         <div className="detail-section">
                             <div className="detail-section__label">Data Sources</div>
                             <p className="detail-section__explanation" style={{ fontSize: '11px' }}>
-                                Indicators derived from Copernicus Land Monitoring Service (Imperviousness Density 2018, Tree Cover Density 2018). Spatial units from ISTAT administrative boundaries 2025.
-                                Shift Score is a structural signal index, not a price forecast.
+                                Imperviousness Density from Copernicus Land Monitoring Service (IMD 2018, 10m resolution, EPSG:3035).
+                                Administrative boundaries from ISTAT comuni 2025 (WGS84). Shift Score = 100 − mean imperviousness.
+                                This is a structural signal index, not a price forecast.
                             </p>
                         </div>
                     </div>

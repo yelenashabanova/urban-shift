@@ -1,0 +1,5294 @@
+[
+  {
+    "id": "057042",
+    "name": "Montenero Sabino",
+    "shiftScore": 100.0,
+    "explanation": "Montenero Sabino shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057036",
+    "name": "Marcetelli",
+    "shiftScore": 99.9,
+    "explanation": "Marcetelli shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057062",
+    "name": "Rocca Sinibalda",
+    "shiftScore": 99.9,
+    "explanation": "Rocca Sinibalda shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057073",
+    "name": "Varco Sabino",
+    "shiftScore": 99.9,
+    "explanation": "Varco Sabino shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058076",
+    "name": "Percile",
+    "shiftScore": 99.9,
+    "explanation": "Percile shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058108",
+    "name": "Vallepietra",
+    "shiftScore": 99.9,
+    "explanation": "Vallepietra shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057001",
+    "name": "Accumoli",
+    "shiftScore": 99.8,
+    "explanation": "Accumoli shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057004",
+    "name": "Ascrea",
+    "shiftScore": 99.8,
+    "explanation": "Ascrea shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057005",
+    "name": "Belmonte in Sabina",
+    "shiftScore": 99.8,
+    "explanation": "Belmonte in Sabina shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057017",
+    "name": "Cittareale",
+    "shiftScore": 99.8,
+    "explanation": "Cittareale shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057020",
+    "name": "Collegiove",
+    "shiftScore": 99.8,
+    "explanation": "Collegiove shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057023",
+    "name": "Concerviano",
+    "shiftScore": 99.8,
+    "explanation": "Concerviano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057024",
+    "name": "Configni",
+    "shiftScore": 99.8,
+    "explanation": "Configni shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057026",
+    "name": "Cottanello",
+    "shiftScore": 99.8,
+    "explanation": "Cottanello shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057034",
+    "name": "Longone Sabino",
+    "shiftScore": 99.8,
+    "explanation": "Longone Sabino shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057037",
+    "name": "Micigliano",
+    "shiftScore": 99.8,
+    "explanation": "Micigliano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057039",
+    "name": "Montasola",
+    "shiftScore": 99.8,
+    "explanation": "Montasola shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057043",
+    "name": "Monte San Giovanni in Sabina",
+    "shiftScore": 99.8,
+    "explanation": "Monte San Giovanni in Sabina shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057045",
+    "name": "Morro Reatino",
+    "shiftScore": 99.8,
+    "explanation": "Morro Reatino shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057048",
+    "name": "Paganico Sabino",
+    "shiftScore": 99.8,
+    "explanation": "Paganico Sabino shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057058",
+    "name": "Pozzaglia Sabina",
+    "shiftScore": 99.8,
+    "explanation": "Pozzaglia Sabina shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057061",
+    "name": "Roccantica",
+    "shiftScore": 99.8,
+    "explanation": "Roccantica shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057063",
+    "name": "Salisano",
+    "shiftScore": 99.8,
+    "explanation": "Salisano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057070",
+    "name": "Torri in Sabina",
+    "shiftScore": 99.8,
+    "explanation": "Torri in Sabina shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057072",
+    "name": "Vacone",
+    "shiftScore": 99.8,
+    "explanation": "Vacone shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058014",
+    "name": "Camerata Nuova",
+    "shiftScore": 99.8,
+    "explanation": "Camerata Nuova shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058028",
+    "name": "Cervara di Roma",
+    "shiftScore": 99.8,
+    "explanation": "Cervara di Roma shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058084",
+    "name": "Rocca Canterano",
+    "shiftScore": 99.8,
+    "explanation": "Rocca Canterano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058101",
+    "name": "Saracinesco",
+    "shiftScore": 99.8,
+    "explanation": "Saracinesco shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058113",
+    "name": "Vivaro Romano",
+    "shiftScore": 99.8,
+    "explanation": "Vivaro Romano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059003",
+    "name": "Campodimele",
+    "shiftScore": 99.8,
+    "explanation": "Campodimele shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060001",
+    "name": "Acquafondata",
+    "shiftScore": 99.8,
+    "explanation": "Acquafondata shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060029",
+    "name": "Colle San Magno",
+    "shiftScore": 99.8,
+    "explanation": "Colle San Magno shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060034",
+    "name": "Filettino",
+    "shiftScore": 99.8,
+    "explanation": "Filettino shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060072",
+    "name": "Settefrati",
+    "shiftScore": 99.8,
+    "explanation": "Settefrati shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060077",
+    "name": "Terelle",
+    "shiftScore": 99.8,
+    "explanation": "Terelle shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056004",
+    "name": "Barbarano Romano",
+    "shiftScore": 99.7,
+    "explanation": "Barbarano Romano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056044",
+    "name": "Proceno",
+    "shiftScore": 99.7,
+    "explanation": "Proceno shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056051",
+    "name": "Tessennano",
+    "shiftScore": 99.7,
+    "explanation": "Tessennano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057006",
+    "name": "Borbona",
+    "shiftScore": 99.7,
+    "explanation": "Borbona shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057018",
+    "name": "Collalto Sabino",
+    "shiftScore": 99.7,
+    "explanation": "Collalto Sabino shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057022",
+    "name": "Colli sul Velino",
+    "shiftScore": 99.7,
+    "explanation": "Colli sul Velino shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057028",
+    "name": "Fiamignano",
+    "shiftScore": 99.7,
+    "explanation": "Fiamignano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057032",
+    "name": "Labro",
+    "shiftScore": 99.7,
+    "explanation": "Labro shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057033",
+    "name": "Leonessa",
+    "shiftScore": 99.7,
+    "explanation": "Leonessa shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057038",
+    "name": "Mompeo",
+    "shiftScore": 99.7,
+    "explanation": "Mompeo shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057040",
+    "name": "Montebuono",
+    "shiftScore": 99.7,
+    "explanation": "Montebuono shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057047",
+    "name": "Orvinio",
+    "shiftScore": 99.7,
+    "explanation": "Orvinio shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057050",
+    "name": "Petrella Salto",
+    "shiftScore": 99.7,
+    "explanation": "Petrella Salto shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057060",
+    "name": "Rivodutri",
+    "shiftScore": 99.7,
+    "explanation": "Rivodutri shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058004",
+    "name": "Allumiere",
+    "shiftScore": 99.7,
+    "explanation": "Allumiere shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058019",
+    "name": "Capranica Prenestina",
+    "shiftScore": 99.7,
+    "explanation": "Capranica Prenestina shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058045",
+    "name": "Gorga",
+    "shiftScore": 99.7,
+    "explanation": "Gorga shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058048",
+    "name": "Jenne",
+    "shiftScore": 99.7,
+    "explanation": "Jenne shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058087",
+    "name": "Roccagiovine",
+    "shiftScore": 99.7,
+    "explanation": "Roccagiovine shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058109",
+    "name": "Vallinfreda",
+    "shiftScore": 99.7,
+    "explanation": "Vallinfreda shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060047",
+    "name": "Pastena",
+    "shiftScore": 99.7,
+    "explanation": "Pastena shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060050",
+    "name": "Picinisco",
+    "shiftScore": 99.7,
+    "explanation": "Picinisco shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060061",
+    "name": "San Biagio Saracinisco",
+    "shiftScore": 99.7,
+    "explanation": "San Biagio Saracinisco shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056007",
+    "name": "Blera",
+    "shiftScore": 99.6,
+    "explanation": "Blera shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056026",
+    "name": "Farnese",
+    "shiftScore": 99.6,
+    "explanation": "Farnese shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056028",
+    "name": "Gradoli",
+    "shiftScore": 99.6,
+    "explanation": "Gradoli shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056031",
+    "name": "Ischia di Castro",
+    "shiftScore": 99.6,
+    "explanation": "Ischia di Castro shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056037",
+    "name": "Monte Romano",
+    "shiftScore": 99.6,
+    "explanation": "Monte Romano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057009",
+    "name": "Cantalice",
+    "shiftScore": 99.6,
+    "explanation": "Cantalice shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057012",
+    "name": "Casperia",
+    "shiftScore": 99.6,
+    "explanation": "Casperia shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057013",
+    "name": "Castel di Tora",
+    "shiftScore": 99.6,
+    "explanation": "Castel di Tora shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057019",
+    "name": "Colle di Tora",
+    "shiftScore": 99.6,
+    "explanation": "Colle di Tora shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057021",
+    "name": "Collevecchio",
+    "shiftScore": 99.6,
+    "explanation": "Collevecchio shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057041",
+    "name": "Monteleone Sabino",
+    "shiftScore": 99.6,
+    "explanation": "Monteleone Sabino shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057056",
+    "name": "Poggio San Lorenzo",
+    "shiftScore": 99.6,
+    "explanation": "Poggio San Lorenzo shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057057",
+    "name": "Posta",
+    "shiftScore": 99.6,
+    "explanation": "Posta shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057064",
+    "name": "Scandriglia",
+    "shiftScore": 99.6,
+    "explanation": "Scandriglia shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057071",
+    "name": "Turania",
+    "shiftScore": 99.6,
+    "explanation": "Turania shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058020",
+    "name": "Carpineto Romano",
+    "shiftScore": 99.6,
+    "explanation": "Carpineto Romano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058051",
+    "name": "Licenza",
+    "shiftScore": 99.6,
+    "explanation": "Licenza shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059002",
+    "name": "Bassiano",
+    "shiftScore": 99.6,
+    "explanation": "Bassiano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060017",
+    "name": "Casalattico",
+    "shiftScore": 99.6,
+    "explanation": "Casalattico shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060031",
+    "name": "Esperia",
+    "shiftScore": 99.6,
+    "explanation": "Esperia shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060091",
+    "name": "Viticuso",
+    "shiftScore": 99.6,
+    "explanation": "Viticuso shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056013",
+    "name": "Capodimonte",
+    "shiftScore": 99.5,
+    "explanation": "Capodimonte shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056040",
+    "name": "Onano",
+    "shiftScore": 99.5,
+    "explanation": "Onano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056056",
+    "name": "Vejano",
+    "shiftScore": 99.5,
+    "explanation": "Vejano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057002",
+    "name": "Amatrice",
+    "shiftScore": 99.5,
+    "explanation": "Amatrice shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057046",
+    "name": "Nespolo",
+    "shiftScore": 99.5,
+    "explanation": "Nespolo shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057049",
+    "name": "Pescorocchiano",
+    "shiftScore": 99.5,
+    "explanation": "Pescorocchiano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058006",
+    "name": "Anticoli Corrado",
+    "shiftScore": 99.5,
+    "explanation": "Anticoli Corrado shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058033",
+    "name": "Civitella San Paolo",
+    "shiftScore": 99.5,
+    "explanation": "Civitella San Paolo shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058052",
+    "name": "Magliano Romano",
+    "shiftScore": 99.5,
+    "explanation": "Magliano Romano shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058085",
+    "name": "Rocca di Cave",
+    "shiftScore": 99.5,
+    "explanation": "Rocca di Cave shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058096",
+    "name": "San Polo dei Cavalieri",
+    "shiftScore": 99.5,
+    "explanation": "San Polo dei Cavalieri shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058105",
+    "name": "Tolfa",
+    "shiftScore": 99.5,
+    "explanation": "Tolfa shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060028",
+    "name": "Collepardo",
+    "shiftScore": 99.5,
+    "explanation": "Collepardo shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060084",
+    "name": "Vallerotonda",
+    "shiftScore": 99.5,
+    "explanation": "Vallerotonda shows low imperviousness (0% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056002",
+    "name": "Arlena di Castro",
+    "shiftScore": 99.4,
+    "explanation": "Arlena di Castro shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056020",
+    "name": "Cellere",
+    "shiftScore": 99.4,
+    "explanation": "Cellere shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056032",
+    "name": "Latera",
+    "shiftScore": 99.4,
+    "explanation": "Latera shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056033",
+    "name": "Lubriano",
+    "shiftScore": 99.4,
+    "explanation": "Lubriano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057003",
+    "name": "Antrodoco",
+    "shiftScore": 99.4,
+    "explanation": "Antrodoco shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057011",
+    "name": "Casaprota",
+    "shiftScore": 99.4,
+    "explanation": "Casaprota shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057015",
+    "name": "Castel Sant'Angelo",
+    "shiftScore": 99.4,
+    "explanation": "Castel Sant'Angelo shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057052",
+    "name": "Poggio Catino",
+    "shiftScore": 99.4,
+    "explanation": "Poggio Catino shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057067",
+    "name": "Tarano",
+    "shiftScore": 99.4,
+    "explanation": "Tarano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058037",
+    "name": "Filacciano",
+    "shiftScore": 99.4,
+    "explanation": "Filacciano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058095",
+    "name": "San Gregorio da Sassola",
+    "shiftScore": 99.4,
+    "explanation": "San Gregorio da Sassola shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060080",
+    "name": "Trevi nel Lazio",
+    "shiftScore": 99.4,
+    "explanation": "Trevi nel Lazio shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060083",
+    "name": "Vallemaio",
+    "shiftScore": 99.4,
+    "explanation": "Vallemaio shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056003",
+    "name": "Bagnoregio",
+    "shiftScore": 99.3,
+    "explanation": "Bagnoregio shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056012",
+    "name": "Canino",
+    "shiftScore": 99.3,
+    "explanation": "Canino shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056052",
+    "name": "Tuscania",
+    "shiftScore": 99.3,
+    "explanation": "Tuscania shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057069",
+    "name": "Torricella in Sabina",
+    "shiftScore": 99.3,
+    "explanation": "Torricella in Sabina shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058017",
+    "name": "Canterano",
+    "shiftScore": 99.3,
+    "explanation": "Canterano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058062",
+    "name": "Montelanico",
+    "shiftScore": 99.3,
+    "explanation": "Montelanico shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058066",
+    "name": "Montorio Romano",
+    "shiftScore": 99.3,
+    "explanation": "Montorio Romano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058083",
+    "name": "Riofreddo",
+    "shiftScore": 99.3,
+    "explanation": "Riofreddo shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060042",
+    "name": "Guarcino",
+    "shiftScore": 99.3,
+    "explanation": "Guarcino shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060049",
+    "name": "Pescosolido",
+    "shiftScore": 99.3,
+    "explanation": "Pescosolido shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060062",
+    "name": "San Donato Val di Comino",
+    "shiftScore": 99.3,
+    "explanation": "San Donato Val di Comino shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060087",
+    "name": "Vico nel Lazio",
+    "shiftScore": 99.3,
+    "explanation": "Vico nel Lazio shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056008",
+    "name": "Bolsena",
+    "shiftScore": 99.2,
+    "explanation": "Bolsena shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056009",
+    "name": "Bomarzo",
+    "shiftScore": 99.2,
+    "explanation": "Bomarzo shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056019",
+    "name": "Celleno",
+    "shiftScore": 99.2,
+    "explanation": "Celleno shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056025",
+    "name": "Faleria",
+    "shiftScore": 99.2,
+    "explanation": "Faleria shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057051",
+    "name": "Poggio Bustone",
+    "shiftScore": 99.2,
+    "explanation": "Poggio Bustone shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057068",
+    "name": "Toffia",
+    "shiftScore": 99.2,
+    "explanation": "Toffia shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058008",
+    "name": "Arcinazzo Romano",
+    "shiftScore": 99.2,
+    "explanation": "Arcinazzo Romano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058030",
+    "name": "Ciciliano",
+    "shiftScore": 99.2,
+    "explanation": "Ciciliano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058031",
+    "name": "Cineto Romano",
+    "shiftScore": 99.2,
+    "explanation": "Cineto Romano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058058",
+    "name": "Mazzano Romano",
+    "shiftScore": 99.2,
+    "explanation": "Mazzano Romano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058061",
+    "name": "Monteflavio",
+    "shiftScore": 99.2,
+    "explanation": "Monteflavio shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059020",
+    "name": "Prossedi",
+    "shiftScore": 99.2,
+    "explanation": "Prossedi shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060013",
+    "name": "Belmonte Castello",
+    "shiftScore": 99.2,
+    "explanation": "Belmonte Castello shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060069",
+    "name": "Santopadre",
+    "shiftScore": 99.2,
+    "explanation": "Santopadre shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060082",
+    "name": "Vallecorsa",
+    "shiftScore": 99.2,
+    "explanation": "Vallecorsa shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056001",
+    "name": "Acquapendente",
+    "shiftScore": 99.1,
+    "explanation": "Acquapendente shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056015",
+    "name": "Caprarola",
+    "shiftScore": 99.1,
+    "explanation": "Caprarola shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056043",
+    "name": "Piansano",
+    "shiftScore": 99.1,
+    "explanation": "Piansano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057025",
+    "name": "Contigliano",
+    "shiftScore": 99.1,
+    "explanation": "Contigliano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057031",
+    "name": "Greccio",
+    "shiftScore": 99.1,
+    "explanation": "Greccio shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058021",
+    "name": "Casape",
+    "shiftScore": 99.1,
+    "explanation": "Casape shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058025",
+    "name": "Castel San Pietro Romano",
+    "shiftScore": 99.1,
+    "explanation": "Castel San Pietro Romano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058077",
+    "name": "Pisoniano",
+    "shiftScore": 99.1,
+    "explanation": "Pisoniano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059013",
+    "name": "Maenza",
+    "shiftScore": 99.1,
+    "explanation": "Maenza shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060032",
+    "name": "Falvaterra",
+    "shiftScore": 99.1,
+    "explanation": "Falvaterra shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060041",
+    "name": "Giuliano di Roma",
+    "shiftScore": 99.1,
+    "explanation": "Giuliano di Roma shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060051",
+    "name": "Pico",
+    "shiftScore": 99.1,
+    "explanation": "Pico shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 0.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056005",
+    "name": "Bassano Romano",
+    "shiftScore": 99.0,
+    "explanation": "Bassano Romano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056010",
+    "name": "Calcata",
+    "shiftScore": 99.0,
+    "explanation": "Calcata shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056053",
+    "name": "Valentano",
+    "shiftScore": 99.0,
+    "explanation": "Valentano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057044",
+    "name": "Montopoli di Sabina",
+    "shiftScore": 99.0,
+    "explanation": "Montopoli di Sabina shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057065",
+    "name": "Selci",
+    "shiftScore": 99.0,
+    "explanation": "Selci shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058053",
+    "name": "Mandela",
+    "shiftScore": 99.0,
+    "explanation": "Mandela shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058078",
+    "name": "Poli",
+    "shiftScore": 99.0,
+    "explanation": "Poli shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059022",
+    "name": "Rocca Massima",
+    "shiftScore": 99.0,
+    "explanation": "Rocca Massima shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060004",
+    "name": "Alvito",
+    "shiftScore": 99.0,
+    "explanation": "Alvito shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060016",
+    "name": "Campoli Appennino",
+    "shiftScore": 99.0,
+    "explanation": "Campoli Appennino shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060090",
+    "name": "Villa Santo Stefano",
+    "shiftScore": 99.0,
+    "explanation": "Villa Santo Stefano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057008",
+    "name": "Borgo Velino",
+    "shiftScore": 98.9,
+    "explanation": "Borgo Velino shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057014",
+    "name": "Castelnuovo di Farfa",
+    "shiftScore": 98.9,
+    "explanation": "Castelnuovo di Farfa shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058012",
+    "name": "Bellegra",
+    "shiftScore": 98.9,
+    "explanation": "Bellegra shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058016",
+    "name": "Canale Monterano",
+    "shiftScore": 98.9,
+    "explanation": "Canale Monterano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058044",
+    "name": "Gerano",
+    "shiftScore": 98.9,
+    "explanation": "Gerano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058089",
+    "name": "Rocca Santo Stefano",
+    "shiftScore": 98.9,
+    "explanation": "Rocca Santo Stefano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058106",
+    "name": "Torrita Tiberina",
+    "shiftScore": 98.9,
+    "explanation": "Torrita Tiberina shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058112",
+    "name": "Vicovaro",
+    "shiftScore": 98.9,
+    "explanation": "Vicovaro shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060005",
+    "name": "Amaseno",
+    "shiftScore": 98.9,
+    "explanation": "Amaseno shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060030",
+    "name": "Coreno Ausonio",
+    "shiftScore": 98.9,
+    "explanation": "Coreno Ausonio shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060059",
+    "name": "Rocca d'Arce",
+    "shiftScore": 98.9,
+    "explanation": "Rocca d'Arce shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056029",
+    "name": "Graffignano",
+    "shiftScore": 98.8,
+    "explanation": "Graffignano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056030",
+    "name": "Grotte di Castro",
+    "shiftScore": 98.8,
+    "explanation": "Grotte di Castro shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056048",
+    "name": "Soriano nel Cimino",
+    "shiftScore": 98.8,
+    "explanation": "Soriano nel Cimino shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058001",
+    "name": "Affile",
+    "shiftScore": 98.8,
+    "explanation": "Affile shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058013",
+    "name": "Bracciano",
+    "shiftScore": 98.8,
+    "explanation": "Bracciano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058075",
+    "name": "Palombara Sabina",
+    "shiftScore": 98.8,
+    "explanation": "Palombara Sabina shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058090",
+    "name": "Roiate",
+    "shiftScore": 98.8,
+    "explanation": "Roiate shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058094",
+    "name": "Sambuci",
+    "shiftScore": 98.8,
+    "explanation": "Sambuci shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058099",
+    "name": "Sant'Oreste",
+    "shiftScore": 98.8,
+    "explanation": "Sant'Oreste shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059023",
+    "name": "Roccasecca dei Volsci",
+    "shiftScore": 98.8,
+    "explanation": "Roccasecca dei Volsci shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060023",
+    "name": "Castro dei Volsci",
+    "shiftScore": 98.8,
+    "explanation": "Castro dei Volsci shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056022",
+    "name": "Civitella d'Agliano",
+    "shiftScore": 98.7,
+    "explanation": "Civitella d'Agliano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056023",
+    "name": "Corchiano",
+    "shiftScore": 98.7,
+    "explanation": "Corchiano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056049",
+    "name": "Sutri",
+    "shiftScore": 98.7,
+    "explanation": "Sutri shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057007",
+    "name": "Borgorose",
+    "shiftScore": 98.7,
+    "explanation": "Borgorose shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058027",
+    "name": "Cerreto Laziale",
+    "shiftScore": 98.7,
+    "explanation": "Cerreto Laziale shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058067",
+    "name": "Moricone",
+    "shiftScore": 98.7,
+    "explanation": "Moricone shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059016",
+    "name": "Norma",
+    "shiftScore": 98.7,
+    "explanation": "Norma shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060066",
+    "name": "Sant'Andrea del Garigliano",
+    "shiftScore": 98.7,
+    "explanation": "Sant'Andrea del Garigliano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056016",
+    "name": "Carbognano",
+    "shiftScore": 98.6,
+    "explanation": "Carbognano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056047",
+    "name": "San Lorenzo Nuovo",
+    "shiftScore": 98.6,
+    "explanation": "San Lorenzo Nuovo shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056050",
+    "name": "Tarquinia",
+    "shiftScore": 98.6,
+    "explanation": "Tarquinia shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058010",
+    "name": "Arsoli",
+    "shiftScore": 98.6,
+    "explanation": "Arsoli shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058055",
+    "name": "Marano Equo",
+    "shiftScore": 98.6,
+    "explanation": "Marano Equo shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058103",
+    "name": "Subiaco",
+    "shiftScore": 98.6,
+    "explanation": "Subiaco shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058107",
+    "name": "Trevignano Romano",
+    "shiftScore": 98.6,
+    "explanation": "Trevignano Romano shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060037",
+    "name": "Fontechiari",
+    "shiftScore": 98.6,
+    "explanation": "Fontechiari shows low imperviousness (1% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056011",
+    "name": "Canepina",
+    "shiftScore": 98.5,
+    "explanation": "Canepina shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056034",
+    "name": "Marta",
+    "shiftScore": 98.5,
+    "explanation": "Marta shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056055",
+    "name": "Vasanello",
+    "shiftScore": 98.5,
+    "explanation": "Vasanello shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057010",
+    "name": "Cantalupo in Sabina",
+    "shiftScore": 98.5,
+    "explanation": "Cantalupo in Sabina shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057066",
+    "name": "Stimigliano",
+    "shiftScore": 98.5,
+    "explanation": "Stimigliano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058069",
+    "name": "Nazzano",
+    "shiftScore": 98.5,
+    "explanation": "Nazzano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059006",
+    "name": "Cori",
+    "shiftScore": 98.5,
+    "explanation": "Cori shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059021",
+    "name": "Roccagorga",
+    "shiftScore": 98.5,
+    "explanation": "Roccagorga shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060040",
+    "name": "Gallinaro",
+    "shiftScore": 98.5,
+    "explanation": "Gallinaro shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060053",
+    "name": "Piglio",
+    "shiftScore": 98.5,
+    "explanation": "Piglio shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060088",
+    "name": "Villa Latina",
+    "shiftScore": 98.5,
+    "explanation": "Villa Latina shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056045",
+    "name": "Ronciglione",
+    "shiftScore": 98.4,
+    "explanation": "Ronciglione shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056054",
+    "name": "Vallerano",
+    "shiftScore": 98.4,
+    "explanation": "Vallerano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056057",
+    "name": "Vetralla",
+    "shiftScore": 98.4,
+    "explanation": "Vetralla shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058071",
+    "name": "Nerola",
+    "shiftScore": 98.4,
+    "explanation": "Nerola shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059010",
+    "name": "Itri",
+    "shiftScore": 98.4,
+    "explanation": "Itri shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060018",
+    "name": "Casalvieri",
+    "shiftScore": 98.4,
+    "explanation": "Casalvieri shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056014",
+    "name": "Capranica",
+    "shiftScore": 98.3,
+    "explanation": "Capranica shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057054",
+    "name": "Poggio Moiano",
+    "shiftScore": 98.3,
+    "explanation": "Poggio Moiano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059012",
+    "name": "Lenola",
+    "shiftScore": 98.3,
+    "explanation": "Lenola shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060065",
+    "name": "Sant'Ambrogio sul Garigliano",
+    "shiftScore": 98.3,
+    "explanation": "Sant'Ambrogio sul Garigliano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056018",
+    "name": "Castiglione in Teverina",
+    "shiftScore": 98.2,
+    "explanation": "Castiglione in Teverina shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056027",
+    "name": "Gallese",
+    "shiftScore": 98.2,
+    "explanation": "Gallese shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056041",
+    "name": "Oriolo Romano",
+    "shiftScore": 98.2,
+    "explanation": "Oriolo Romano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058070",
+    "name": "Nemi",
+    "shiftScore": 98.2,
+    "explanation": "Nemi shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058080",
+    "name": "Ponzano Romano",
+    "shiftScore": 98.2,
+    "explanation": "Ponzano Romano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058102",
+    "name": "Segni",
+    "shiftScore": 98.2,
+    "explanation": "Segni shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059015",
+    "name": "Monte San Biagio",
+    "shiftScore": 98.2,
+    "explanation": "Monte San Biagio shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060067",
+    "name": "Sant'Apollinare",
+    "shiftScore": 98.2,
+    "explanation": "Sant'Apollinare shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056006",
+    "name": "Bassano in Teverina",
+    "shiftScore": 98.1,
+    "explanation": "Bassano in Teverina shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056036",
+    "name": "Montefiascone",
+    "shiftScore": 98.1,
+    "explanation": "Montefiascone shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056039",
+    "name": "Nepi",
+    "shiftScore": 98.1,
+    "explanation": "Nepi shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057029",
+    "name": "Forano",
+    "shiftScore": 98.1,
+    "explanation": "Forano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057035",
+    "name": "Magliano Sabina",
+    "shiftScore": 98.1,
+    "explanation": "Magliano Sabina shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057055",
+    "name": "Poggio Nativo",
+    "shiftScore": 98.1,
+    "explanation": "Poggio Nativo shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058041",
+    "name": "Gavignano",
+    "shiftScore": 98.1,
+    "explanation": "Gavignano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058093",
+    "name": "Sacrofano",
+    "shiftScore": 98.1,
+    "explanation": "Sacrofano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060010",
+    "name": "Arpino",
+    "shiftScore": 98.1,
+    "explanation": "Arpino shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060073",
+    "name": "Sgurgola",
+    "shiftScore": 98.1,
+    "explanation": "Sgurgola shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 1.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058002",
+    "name": "Agosta",
+    "shiftScore": 98.0,
+    "explanation": "Agosta shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058063",
+    "name": "Montelibretti",
+    "shiftScore": 98.0,
+    "explanation": "Montelibretti shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058092",
+    "name": "Roviano",
+    "shiftScore": 98.0,
+    "explanation": "Roviano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059031",
+    "name": "Spigno Saturnia",
+    "shiftScore": 98.0,
+    "explanation": "Spigno Saturnia shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060064",
+    "name": "San Giovanni Incarico",
+    "shiftScore": 98.0,
+    "explanation": "San Giovanni Incarico shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058042",
+    "name": "Genazzano",
+    "shiftScore": 97.9,
+    "explanation": "Genazzano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056017",
+    "name": "Castel Sant'Elia",
+    "shiftScore": 97.8,
+    "explanation": "Castel Sant'Elia shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058082",
+    "name": "Rignano Flaminio",
+    "shiftScore": 97.8,
+    "explanation": "Rignano Flaminio shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058098",
+    "name": "Sant'Angelo Romano",
+    "shiftScore": 97.8,
+    "explanation": "Sant'Angelo Romano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058100",
+    "name": "San Vito Romano",
+    "shiftScore": 97.8,
+    "explanation": "San Vito Romano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060009",
+    "name": "Arnara",
+    "shiftScore": 97.8,
+    "explanation": "Arnara shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060021",
+    "name": "Castelnuovo Parano",
+    "shiftScore": 97.8,
+    "explanation": "Castelnuovo Parano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060045",
+    "name": "Morolo",
+    "shiftScore": 97.8,
+    "explanation": "Morolo shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060057",
+    "name": "Posta Fibreno",
+    "shiftScore": 97.8,
+    "explanation": "Posta Fibreno shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060078",
+    "name": "Torre Cajetani",
+    "shiftScore": 97.8,
+    "explanation": "Torre Cajetani shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056058",
+    "name": "Vignanello",
+    "shiftScore": 97.7,
+    "explanation": "Vignanello shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057053",
+    "name": "Poggio Mirteto",
+    "shiftScore": 97.7,
+    "explanation": "Poggio Mirteto shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059004",
+    "name": "Castelforte",
+    "shiftScore": 97.7,
+    "explanation": "Castelforte shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060039",
+    "name": "Fumone",
+    "shiftScore": 97.7,
+    "explanation": "Fumone shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060071",
+    "name": "Serrone",
+    "shiftScore": 97.7,
+    "explanation": "Serrone shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056059",
+    "name": "Viterbo",
+    "shiftScore": 97.6,
+    "explanation": "Viterbo shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058073",
+    "name": "Olevano Romano",
+    "shiftScore": 97.6,
+    "explanation": "Olevano Romano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060055",
+    "name": "Pofi",
+    "shiftScore": 97.6,
+    "explanation": "Pofi shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060056",
+    "name": "Pontecorvo",
+    "shiftScore": 97.6,
+    "explanation": "Pontecorvo shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060086",
+    "name": "Vicalvi",
+    "shiftScore": 97.6,
+    "explanation": "Vicalvi shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057016",
+    "name": "Cittaducale",
+    "shiftScore": 97.5,
+    "explanation": "Cittaducale shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058023",
+    "name": "Castel Madama",
+    "shiftScore": 97.5,
+    "explanation": "Castel Madama shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059029",
+    "name": "Sonnino",
+    "shiftScore": 97.5,
+    "explanation": "Sonnino shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060046",
+    "name": "Paliano",
+    "shiftScore": 97.5,
+    "explanation": "Paliano shows low imperviousness (2% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056060",
+    "name": "Vitorchiano",
+    "shiftScore": 97.4,
+    "explanation": "Vitorchiano shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060002",
+    "name": "Acuto",
+    "shiftScore": 97.4,
+    "explanation": "Acuto shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060068",
+    "name": "Sant'Elia Fiumerapido",
+    "shiftScore": 97.4,
+    "explanation": "Sant'Elia Fiumerapido shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056035",
+    "name": "Montalto di Castro",
+    "shiftScore": 97.3,
+    "explanation": "Montalto di Castro shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057027",
+    "name": "Fara in Sabina",
+    "shiftScore": 97.3,
+    "explanation": "Fara in Sabina shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058015",
+    "name": "Campagnano di Roma",
+    "shiftScore": 97.3,
+    "explanation": "Campagnano di Roma shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060008",
+    "name": "Arce",
+    "shiftScore": 97.3,
+    "explanation": "Arce shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060076",
+    "name": "Supino",
+    "shiftScore": 97.3,
+    "explanation": "Supino shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056046",
+    "name": "Villa San Giovanni in Tuscia",
+    "shiftScore": 97.2,
+    "explanation": "Villa San Giovanni in Tuscia shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057030",
+    "name": "Frasso Sabino",
+    "shiftScore": 97.2,
+    "explanation": "Frasso Sabino shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058005",
+    "name": "Anguillara Sabazia",
+    "shiftScore": 97.2,
+    "explanation": "Anguillara Sabazia shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058068",
+    "name": "Morlupo",
+    "shiftScore": 97.2,
+    "explanation": "Morlupo shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060085",
+    "name": "Veroli",
+    "shiftScore": 97.2,
+    "explanation": "Veroli shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "057059",
+    "name": "Rieti",
+    "shiftScore": 97.1,
+    "explanation": "Rieti shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 2.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056042",
+    "name": "Orte",
+    "shiftScore": 97.0,
+    "explanation": "Orte shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060027",
+    "name": "Colfelice",
+    "shiftScore": 97.0,
+    "explanation": "Colfelice shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060058",
+    "name": "Ripi",
+    "shiftScore": 97.0,
+    "explanation": "Ripi shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060054",
+    "name": "Pignataro Interamna",
+    "shiftScore": 96.9,
+    "explanation": "Pignataro Interamna shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060081",
+    "name": "Trivigliano",
+    "shiftScore": 96.9,
+    "explanation": "Trivigliano shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058054",
+    "name": "Manziana",
+    "shiftScore": 96.8,
+    "explanation": "Manziana shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060036",
+    "name": "Fontana Liri",
+    "shiftScore": 96.8,
+    "explanation": "Fontana Liri shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060012",
+    "name": "Ausonia",
+    "shiftScore": 96.7,
+    "explanation": "Ausonia shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060011",
+    "name": "Atina",
+    "shiftScore": 96.6,
+    "explanation": "Atina shows low imperviousness (3% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058086",
+    "name": "Rocca di Papa",
+    "shiftScore": 96.5,
+    "explanation": "Rocca di Papa shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058029",
+    "name": "Cerveteri",
+    "shiftScore": 96.4,
+    "explanation": "Cerveteri shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058024",
+    "name": "Castelnuovo di Porto",
+    "shiftScore": 96.3,
+    "explanation": "Castelnuovo di Porto shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058056",
+    "name": "Marcellina",
+    "shiftScore": 96.3,
+    "explanation": "Marcellina shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060060",
+    "name": "Roccasecca",
+    "shiftScore": 96.3,
+    "explanation": "Roccasecca shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058011",
+    "name": "Artena",
+    "shiftScore": 96.2,
+    "explanation": "Artena shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056021",
+    "name": "Civita Castellana",
+    "shiftScore": 96.1,
+    "explanation": "Civita Castellana shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058088",
+    "name": "Rocca Priora",
+    "shiftScore": 96.1,
+    "explanation": "Rocca Priora shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060026",
+    "name": "Cervaro",
+    "shiftScore": 96.1,
+    "explanation": "Cervaro shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 3.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058040",
+    "name": "Gallicano nel Lazio",
+    "shiftScore": 96.0,
+    "explanation": "Gallicano nel Lazio shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059019",
+    "name": "Priverno",
+    "shiftScore": 96.0,
+    "explanation": "Priverno shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060070",
+    "name": "San Vittore del Lazio",
+    "shiftScore": 96.0,
+    "explanation": "San Vittore del Lazio shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060075",
+    "name": "Strangolagalli",
+    "shiftScore": 96.0,
+    "explanation": "Strangolagalli shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060044",
+    "name": "Monte San Giovanni Campano",
+    "shiftScore": 95.9,
+    "explanation": "Monte San Giovanni Campano shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056024",
+    "name": "Fabrica di Roma",
+    "shiftScore": 95.7,
+    "explanation": "Fabrica di Roma shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058038",
+    "name": "Formello",
+    "shiftScore": 95.7,
+    "explanation": "Formello shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059030",
+    "name": "Sperlonga",
+    "shiftScore": 95.7,
+    "explanation": "Sperlonga shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060079",
+    "name": "Torrice",
+    "shiftScore": 95.6,
+    "explanation": "Torrice shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "056038",
+    "name": "Monterosi",
+    "shiftScore": 95.5,
+    "explanation": "Monterosi shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059026",
+    "name": "Santi Cosma e Damiano",
+    "shiftScore": 95.5,
+    "explanation": "Santi Cosma e Damiano shows low imperviousness (4% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058050",
+    "name": "Lanuvio",
+    "shiftScore": 95.3,
+    "explanation": "Lanuvio shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060022",
+    "name": "Castrocielo",
+    "shiftScore": 95.3,
+    "explanation": "Castrocielo shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058026",
+    "name": "Cave",
+    "shiftScore": 95.2,
+    "explanation": "Cave shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059027",
+    "name": "Sermoneta",
+    "shiftScore": 95.2,
+    "explanation": "Sermoneta shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060035",
+    "name": "Fiuggi",
+    "shiftScore": 95.2,
+    "explanation": "Fiuggi shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060003",
+    "name": "Alatri",
+    "shiftScore": 95.1,
+    "explanation": "Alatri shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 4.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058081",
+    "name": "Riano",
+    "shiftScore": 95.0,
+    "explanation": "Riano shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060020",
+    "name": "Castelliri",
+    "shiftScore": 95.0,
+    "explanation": "Castelliri shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060063",
+    "name": "San Giorgio a Liri",
+    "shiftScore": 95.0,
+    "explanation": "San Giorgio a Liri shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060089",
+    "name": "Villa Santa Lucia",
+    "shiftScore": 95.0,
+    "explanation": "Villa Santa Lucia shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059018",
+    "name": "Ponza",
+    "shiftScore": 94.8,
+    "explanation": "Ponza shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059028",
+    "name": "Sezze",
+    "shiftScore": 94.8,
+    "explanation": "Sezze shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060025",
+    "name": "Ceprano",
+    "shiftScore": 94.8,
+    "explanation": "Ceprano shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059017",
+    "name": "Pontinia",
+    "shiftScore": 94.7,
+    "explanation": "Pontinia shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060014",
+    "name": "Boville Ernica",
+    "shiftScore": 94.7,
+    "explanation": "Boville Ernica shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058111",
+    "name": "Velletri",
+    "shiftScore": 94.6,
+    "explanation": "Velletri shows low imperviousness (5% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058022",
+    "name": "Castel Gandolfo",
+    "shiftScore": 94.5,
+    "explanation": "Castel Gandolfo shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058074",
+    "name": "Palestrina",
+    "shiftScore": 94.4,
+    "explanation": "Palestrina shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060007",
+    "name": "Aquino",
+    "shiftScore": 94.3,
+    "explanation": "Aquino shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059005",
+    "name": "Cisterna di Latina",
+    "shiftScore": 94.2,
+    "explanation": "Cisterna di Latina shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 5.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058110",
+    "name": "Valmontone",
+    "shiftScore": 94.0,
+    "explanation": "Valmontone shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 6.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060048",
+    "name": "Patrica",
+    "shiftScore": 94.0,
+    "explanation": "Patrica shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 6.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058018",
+    "name": "Capena",
+    "shiftScore": 93.8,
+    "explanation": "Capena shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 6.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060006",
+    "name": "Anagni",
+    "shiftScore": 93.8,
+    "explanation": "Anagni shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 6.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058049",
+    "name": "Labico",
+    "shiftScore": 93.7,
+    "explanation": "Labico shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 6.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058060",
+    "name": "Monte Compatri",
+    "shiftScore": 93.7,
+    "explanation": "Monte Compatri shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 6.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059007",
+    "name": "Fondi",
+    "shiftScore": 93.7,
+    "explanation": "Fondi shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 6.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060033",
+    "name": "Ferentino",
+    "shiftScore": 93.7,
+    "explanation": "Ferentino shows low imperviousness (6% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 6.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060024",
+    "name": "Ceccano",
+    "shiftScore": 93.2,
+    "explanation": "Ceccano shows low imperviousness (7% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 6.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058059",
+    "name": "Mentana",
+    "shiftScore": 93.0,
+    "explanation": "Mentana shows low imperviousness (7% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 7.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060074",
+    "name": "Sora",
+    "shiftScore": 92.6,
+    "explanation": "Sora shows low imperviousness (7% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 7.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058064",
+    "name": "Monte Porzio Catone",
+    "shiftScore": 92.5,
+    "explanation": "Monte Porzio Catone shows low imperviousness (8% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 7.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059008",
+    "name": "Formia",
+    "shiftScore": 92.5,
+    "explanation": "Formia shows low imperviousness (8% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 7.5,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058097",
+    "name": "Santa Marinella",
+    "shiftScore": 92.4,
+    "explanation": "Santa Marinella shows low imperviousness (8% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 7.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060015",
+    "name": "Broccostella",
+    "shiftScore": 92.4,
+    "explanation": "Broccostella shows low imperviousness (8% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 7.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058115",
+    "name": "Lariano",
+    "shiftScore": 92.3,
+    "explanation": "Lariano shows low imperviousness (8% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 7.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060019",
+    "name": "Cassino",
+    "shiftScore": 92.0,
+    "explanation": "Cassino shows low imperviousness (8% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 8.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058114",
+    "name": "Zagarolo",
+    "shiftScore": 91.9,
+    "explanation": "Zagarolo shows low imperviousness (8% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 8.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058046",
+    "name": "Grottaferrata",
+    "shiftScore": 91.4,
+    "explanation": "Grottaferrata shows low imperviousness (9% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 8.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058104",
+    "name": "Tivoli",
+    "shiftScore": 91.1,
+    "explanation": "Tivoli shows low imperviousness (9% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 8.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058036",
+    "name": "Fiano Romano",
+    "shiftScore": 90.8,
+    "explanation": "Fiano Romano shows low imperviousness (9% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 9.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058119",
+    "name": "San Cesareo",
+    "shiftScore": 90.0,
+    "explanation": "San Cesareo shows low imperviousness (10% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 10.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059014",
+    "name": "Minturno",
+    "shiftScore": 90.0,
+    "explanation": "Minturno shows low imperviousness (10% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 10.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059011",
+    "name": "Latina",
+    "shiftScore": 89.8,
+    "explanation": "Latina shows low imperviousness (10% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 10.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059001",
+    "name": "Aprilia",
+    "shiftScore": 89.6,
+    "explanation": "Aprilia shows low imperviousness (10% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 10.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058043",
+    "name": "Genzano di Roma",
+    "shiftScore": 89.3,
+    "explanation": "Genzano di Roma shows low imperviousness (11% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 10.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058065",
+    "name": "Monterotondo",
+    "shiftScore": 89.0,
+    "explanation": "Monterotondo shows low imperviousness (11% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 11.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059033",
+    "name": "Ventotene",
+    "shiftScore": 88.9,
+    "explanation": "Ventotene shows low imperviousness (11% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 11.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058120",
+    "name": "Fiumicino",
+    "shiftScore": 88.8,
+    "explanation": "Fiumicino shows low imperviousness (11% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 11.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058035",
+    "name": "Colonna",
+    "shiftScore": 88.4,
+    "explanation": "Colonna shows low imperviousness (12% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 11.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058122",
+    "name": "Fonte Nuova",
+    "shiftScore": 88.2,
+    "explanation": "Fonte Nuova shows low imperviousness (12% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 11.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058072",
+    "name": "Nettuno",
+    "shiftScore": 88.0,
+    "explanation": "Nettuno shows low imperviousness (12% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 12.0,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059024",
+    "name": "Sabaudia",
+    "shiftScore": 87.6,
+    "explanation": "Sabaudia shows low imperviousness (12% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 12.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059009",
+    "name": "Gaeta",
+    "shiftScore": 87.4,
+    "explanation": "Gaeta shows low imperviousness (13% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 12.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058039",
+    "name": "Frascati",
+    "shiftScore": 87.2,
+    "explanation": "Frascati shows low imperviousness (13% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 12.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059032",
+    "name": "Terracina",
+    "shiftScore": 86.9,
+    "explanation": "Terracina shows low imperviousness (13% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 13.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060043",
+    "name": "Isola del Liri",
+    "shiftScore": 86.8,
+    "explanation": "Isola del Liri shows low imperviousness (13% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 13.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058034",
+    "name": "Colleferro",
+    "shiftScore": 86.7,
+    "explanation": "Colleferro shows low imperviousness (13% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 13.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058047",
+    "name": "Guidonia Montecelio",
+    "shiftScore": 86.4,
+    "explanation": "Guidonia Montecelio shows low imperviousness (14% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 13.6,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058032",
+    "name": "Civitavecchia",
+    "shiftScore": 86.2,
+    "explanation": "Civitavecchia shows low imperviousness (14% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 13.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058117",
+    "name": "Ardea",
+    "shiftScore": 85.8,
+    "explanation": "Ardea shows low imperviousness (14% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 14.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058057",
+    "name": "Marino",
+    "shiftScore": 84.8,
+    "explanation": "Marino shows low imperviousness (15% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 15.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058009",
+    "name": "Ariccia",
+    "shiftScore": 84.6,
+    "explanation": "Ariccia shows low imperviousness (15% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 15.4,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058091",
+    "name": "Roma",
+    "shiftScore": 82.9,
+    "explanation": "Roma shows low imperviousness (17% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 17.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058003",
+    "name": "Albano Laziale",
+    "shiftScore": 82.3,
+    "explanation": "Albano Laziale shows low imperviousness (18% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 17.7,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060052",
+    "name": "Piedimonte San Germano",
+    "shiftScore": 81.2,
+    "explanation": "Piedimonte San Germano shows low imperviousness (19% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 18.8,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058079",
+    "name": "Pomezia",
+    "shiftScore": 81.1,
+    "explanation": "Pomezia shows low imperviousness (19% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 18.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058116",
+    "name": "Ladispoli",
+    "shiftScore": 81.1,
+    "explanation": "Ladispoli shows low imperviousness (19% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 18.9,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "060038",
+    "name": "Frosinone",
+    "shiftScore": 79.9,
+    "explanation": "Frosinone shows low imperviousness (20% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 20.1,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "059025",
+    "name": "San Felice Circeo",
+    "shiftScore": 79.8,
+    "explanation": "San Felice Circeo shows low imperviousness (20% sealed surface), suggesting significant undeveloped or green land. This structural openness points to strong transformation potential.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 20.2,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058007",
+    "name": "Anzio",
+    "shiftScore": 74.7,
+    "explanation": "Anzio has moderate imperviousness (25% sealed surface). The built fabric is partially consolidated, with room for densification or land-use change over a 3–7 year horizon.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 25.3,
+        "unit": "%"
+      }
+    ]
+  },
+  {
+    "id": "058118",
+    "name": "Ciampino",
+    "shiftScore": 67.3,
+    "explanation": "Ciampino has moderate imperviousness (33% sealed surface). The built fabric is partially consolidated, with room for densification or land-use change over a 3–7 year horizon.",
+    "indicators": [
+      {
+        "key": "imperviousnessDensity",
+        "label": "Imperviousness Density",
+        "value": 32.7,
+        "unit": "%"
+      }
+    ]
+  }
+]
