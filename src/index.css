@@ -19,18 +19,22 @@
   --panel-width: 360px;
   --rank-width: 240px;
   --border-radius: 8px;
-  --shadow-sm: 0 1px 3px rgba(0,0,0,0.08);
-  --shadow-md: 0 4px 16px rgba(0,0,0,0.10);
+  --shadow-sm: 0 1px 3px rgba(0, 0, 0, 0.08);
+  --shadow-md: 0 4px 16px rgba(0, 0, 0, 0.10);
   --transition: 0.2s ease;
 }
 
-*, *::before, *::after {
+*,
+*::before,
+*::after {
   box-sizing: border-box;
   margin: 0;
   padding: 0;
 }
 
-html, body, #root {
+html,
+body,
+#root {
   height: 100%;
   width: 100%;
   overflow: hidden;
@@ -360,7 +364,11 @@ html, body, #root {
 .map-legend__bar {
   height: 6px;
   border-radius: 3px;
-  background: linear-gradient(90deg, var(--score-low), var(--score-mid), var(--score-high));
+  background: linear-gradient(90deg,
+      rgb(140, 50, 160),
+      rgb(230, 100, 30),
+      rgb(220, 210, 60),
+      rgb(34, 139, 34));
   margin-bottom: 4px;
 }
 

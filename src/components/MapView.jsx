@@ -3,27 +3,38 @@ import L from 'leaflet'
 import 'leaflet/dist/leaflet.css'
 import neighborhoods from '../data/lazio_neighborhoods.json'
 
-// Build lookup: id (PRO_COM_T) → { shiftScore, imd }
-const scoreMap = Object.fromEntries(
-    neighborhoods.map(n => [n.id, { score: n.shiftScore, imd: n.indicators[0]?.value }])
-)
+// Build lookup: id → full neighborhood object
+const dataMap = Object.fromEntries(neighborhoods.map(n => [n.id, n]))
+
+// ─── Colour scale ────────────────────────────────────────────────────────────
+// Normalise score relative to the ACTUAL data range so all shades are used.
+// Purple (lowest) → Orange → Yellow → Green (highest)
+const scores = neighborhoods.map(n => n.shiftScore)
+const DATA_MIN = Math.min(...scores)
+const DATA_MAX = Math.max(...scores)
 
 function scoreToColor(score) {
-    // score 0–100: 0 = highly sealed (dark red/orange), 100 = very green
-    const t = Math.max(0, Math.min(1, score / 100))
-    if (t < 0.5) {
-        const t2 = t / 0.5
-        // orange → yellow-green
-        const r = Math.round(230 + (180 - 230) * t2)
-        const g = Math.round(126 + (200 - 126) * t2)
-        const b = Math.round(34 + (80 - 34) * t2)
+    // t = 0 at DATA_MIN, t = 1 at DATA_MAX
+    const t = Math.max(0, Math.min(1, (score - DATA_MIN) / (DATA_MAX - DATA_MIN)))
+
+    // 4-stop gradient: purple → orange → yellow → forest green
+    if (t < 0.33) {
+        const t2 = t / 0.33
+        const r = Math.round(140 + (230 - 140) * t2)
+        const g = Math.round(50 + (100 - 50) * t2)
+        const b = Math.round(160 + (30 - 160) * t2)
+        return `rgb(${r},${g},${b})`
+    } else if (t < 0.66) {
+        const t2 = (t - 0.33) / 0.33
+        const r = Math.round(230 + (220 - 230) * t2)
+        const g = Math.round(100 + (210 - 100) * t2)
+        const b = Math.round(30 + (60 - 30) * t2)
         return `rgb(${r},${g},${b})`
     } else {
-        const t2 = (t - 0.5) / 0.5
-        // yellow-green → deep green
-        const r = Math.round(180 + (34 - 180) * t2)
-        const g = Math.round(200 + (139 - 200) * t2)
-        const b = Math.round(80 + (34 - 80) * t2)
+        const t2 = (t - 0.66) / 0.34
+        const r = Math.round(220 + (34 - 220) * t2)
+        const g = Math.round(210 + (139 - 210) * t2)
+        const b = Math.round(60 + (34 - 60) * t2)
         return `rgb(${r},${g},${b})`
     }
 }
@@ -37,7 +48,7 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
         if (mapInstanceRef.current) return
 
         const map = L.map(mapRef.current, {
-            center: [41.9, 12.9],   // centred on Lazio
+            center: [41.9, 12.9],
             zoom: 8,
             zoomControl: true,
             attributionControl: true,
@@ -46,14 +57,12 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
         L.tileLayer(
             'https://{s}.basemaps.cartocdn.com/light_nolabels/{z}/{x}/{y}{r}.png',
             {
-                attribution:
-                    '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://carto.com/">CARTO</a>',
+                attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors © <a href="https://carto.com/">CARTO</a>',
                 subdomains: 'abcd',
                 maxZoom: 19,
             }
         ).addTo(map)
 
-        // Label overlay on top
         L.tileLayer(
             'https://{s}.basemaps.cartocdn.com/light_only_labels/{z}/{x}/{y}{r}.png',
             { attribution: '', subdomains: 'abcd', maxZoom: 19, pane: 'overlayPane' }
@@ -61,36 +70,36 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
 
         mapInstanceRef.current = map
 
-        // Fetch real GeoJSON from public folder
         fetch(`${import.meta.env.BASE_URL}municipalities.geojson`)
             .then(r => r.json())
             .then(geojson => {
                 L.geoJSON(geojson, {
                     style: (feature) => {
-                        const id = feature.properties.id
-                        const entry = scoreMap[id]
-                        const score = entry?.score ?? 50
+                        const entry = dataMap[feature.properties.id]
+                        const score = entry?.shiftScore ?? ((DATA_MIN + DATA_MAX) / 2)
                         return {
                             fillColor: scoreToColor(score),
-                            fillOpacity: 0.75,
+                            fillOpacity: 0.78,
                             color: '#ffffff',
-                            weight: 0.8,
+                            weight: 0.7,
                             opacity: 0.9,
                         }
                     },
                     onEachFeature: (feature, layer) => {
                         const id = feature.properties.id
+                        const entry = dataMap[id]
                         layersRef.current[id] = layer
 
-                        const entry = scoreMap[id]
                         const name = feature.properties.name
-                        const score = entry?.score?.toFixed(1) ?? '–'
-                        const imd = entry?.imd?.toFixed(1) ?? '–'
+                        const score = entry?.shiftScore?.toFixed(1) ?? '–'
+                        const imd = entry?.indicators?.[0]?.value?.toFixed(1) ?? '–'
+                        const tcd = entry?.indicators?.[1]?.value?.toFixed(1)
 
                         layer.bindTooltip(
                             `<strong>${name}</strong><br/>` +
                             `Shift Score: <b>${score}</b><br/>` +
-                            `Imperviousness: ${imd}%`,
+                            `Imperviousness: ${imd}%` +
+                            (tcd ? `<br/>Tree Cover: ${tcd}%` : ''),
                             { sticky: true }
                         )
 
@@ -98,30 +107,24 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
                             const neighborhood = data.find(n => n.id === id)
                             if (neighborhood) onSelect(neighborhood)
                         })
-
                         layer.on('mouseover', function () {
-                            if (id !== selectedId) {
-                                this.setStyle({ fillOpacity: 0.92, weight: 2 })
-                            }
+                            if (id !== selectedId) this.setStyle({ fillOpacity: 0.95, weight: 2 })
                         })
                         layer.on('mouseout', function () {
-                            if (id !== selectedId) {
-                                this.setStyle({ fillOpacity: 0.75, weight: 0.8 })
-                            }
+                            if (id !== selectedId) this.setStyle({ fillOpacity: 0.78, weight: 0.7 })
                         })
                     },
                 }).addTo(map)
             })
     }, [])
 
-    // Highlight selected polygon
     useEffect(() => {
         Object.entries(layersRef.current).forEach(([id, layer]) => {
             if (id === selectedId) {
-                layer.setStyle({ fillOpacity: 0.95, weight: 2.5, color: '#1e6b5c' })
+                layer.setStyle({ fillOpacity: 0.97, weight: 2.5, color: '#1e2a4a' })
                 layer.bringToFront()
             } else {
-                layer.setStyle({ fillOpacity: 0.75, weight: 0.8, color: '#ffffff' })
+                layer.setStyle({ fillOpacity: 0.78, weight: 0.7, color: '#ffffff' })
             }
         })
     }, [selectedId])
@@ -129,14 +132,17 @@ export default function MapView({ neighborhoods: data, selectedId, onSelect }) {
     return (
         <>
             <div ref={mapRef} style={{ width: '100%', height: '100%' }} />
+
+            {/* Dynamic legend showing actual data range */}
             <div className="map-legend">
                 <div className="map-legend__title">Shift Score</div>
-                <div className="map-legend__bar" />
+                <div className="map-legend__bar map-legend__bar--rainbow" />
                 <div className="map-legend__labels">
-                    <span>Sealed</span>
-                    <span>Green</span>
+                    <span>{DATA_MIN.toFixed(0)}</span>
+                    <span>{DATA_MAX.toFixed(0)}</span>
                 </div>
             </div>
+
             <div className={`map-hint${selectedId ? ' hidden' : ''}`}>
                 Click a comune to explore
             </div>
